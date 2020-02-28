@@ -1,4 +1,5 @@
- 1. if you want compile a multiple c++ source project
+ 1.include path: 
+  if you want compile a multiple c++ source project
   1)you should config the includepath in c_cpp_properties.json,add the includepath in configurations-includepath,
     but i cannot config it with no error,when include "file.h",it always come into "no such file or direction",
     until now,it have not be soluted.
